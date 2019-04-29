@@ -18,11 +18,11 @@ The goals / steps of this project are the following:
 
 [image1]: ./examples/classdistribution.png "Class Distribution"
 [image2]: ./examples/grayscale.png "Grayscaling"
-[image4]: ./examples/Test1.png "Traffic Sign 1"
-[image5]: ./examples/Test2.png "Traffic Sign 2"
-[image6]: ./examples/Test3.png "Traffic Sign 3"
-[image7]: ./examples/Test4.png "Traffic Sign 4"
-[image8]: ./examples/Test5.png "Traffic Sign 5"
+[image4]: ./examples/test1.png "Traffic Sign 1"
+[image5]: ./examples/test2.png "Traffic Sign 2"
+[image6]: ./examples/test3.png "Traffic Sign 3"
+[image7]: ./examples/test4.png "Traffic Sign 4"
+[image8]: ./examples/test5.png "Traffic Sign 5"
 [image9]: ./examples/Softmax1.png "Softmax1"
 [image10]: ./examples/Softmax2.png "Softmax2"
 
