@@ -218,4 +218,6 @@ If taken into coinsideration the third more probabble classes correctly mention 
 
 ![alt text][image9] ![alt text][image10] 
 
-
+Special Thanks to David Cardozo and Carlos Alvarez, some of the code implemented was explained and adecuated from their work and teaching.
+https://github.com/Davidnet
+https://github.com/charlielito
